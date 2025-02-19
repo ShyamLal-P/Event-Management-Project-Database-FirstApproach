@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rbSDGikgVVND5+RYHw9QeHq7ycqWEoyqIa4OCagmdlU=",
+  "Source": "EventManagementBackend",
+  "BasePath": "_content/EventManagementBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
